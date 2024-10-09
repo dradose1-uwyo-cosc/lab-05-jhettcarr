@@ -5,7 +5,7 @@
 * Online Python
 * Ireeann Anderson
 * Lecture Notes
-* example
+* Jay Trujillo
 ## Project Quirks/ Things that don't work
 * example
 * example
