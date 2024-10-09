@@ -7,6 +7,7 @@
 # Online Python
 # Ireeann Anderson
 # Lecture Notes
+# Jay Trujillo
 
 max_temps = [
     32, 24, 22, 25, 37, 33, 34, 40, 40, 42,
